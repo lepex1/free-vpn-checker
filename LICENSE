@@ -1,0 +1,54 @@
+MIT License
+
+Copyright (c) 2026 lepex1 (https://lepex.vercel.app/)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+ATTRIBUTION / ИСПОЛЬЗУЕМЫЕ СТОРОННИЕ КОМПОНЕНТЫ
+================================================================================
+
+Данный проект использует следующие сторонние компоненты и сервисы:
+
+1. Xray-core (https://github.com/XTLS/Xray-core) — ядро для тестирования
+   прокси-конфигов. Лицензия: MPL-2.0.
+
+2. MaxMind GeoLite2 (https://www.maxmind.com) — база данных GeoIP для
+   определения стран. Лицензия: GeoLite2 End User License Agreement
+   (https://www.maxmind.com/en/geolite2/eula).
+
+3. Источники VPN-конфигов (только чтение публичных подписок):
+   - igareck/vpn-configs-for-russia — лицензия GPL-3.0
+   - kort0881/vpn-vless-configs-russia — лицензия GPL-3.0
+
+   Проект free-vpn-checker не модифицирует и не распространяет эти данные,
+   а только скачивает их из публичных источников для последующего
+   тестирования.
+
+================================================================================
+АВТОРСТВО
+================================================================================
+
+Автор: lepex1
+Сайт:   https://lepex.vercel.app/
+GitHub: https://github.com/lepex1/free-vpn-checker
+
+Проект распространяется БЕСПЛАТНО. Автор не рекомендует платное
+распространение, хотя MIT лицензия это технически разрешает.
+Модификации и форки приветствуются при сохранении авторства.
