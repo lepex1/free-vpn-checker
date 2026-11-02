@@ -5,3 +5,10 @@ output/
 *.log
 __pycache__/
 release/
+
+# Runtime logs and build leftovers
+log.txt
+log_messages.txt
+*.spec
+repomix-output.xml
+tmp/
