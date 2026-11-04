@@ -1,7 +1,11 @@
+<p align="center">
+  <a href="README.md">Русский</a> · <b>English</b>
+</p>
+
 # Free VPN Checker
 
 <p align="center">
-  <img src="assets/banner.png" alt="Free VPN Checker — tests public VPN configs and keeps only the alive ones" />
+  <img src="assets/banner.en.png" alt="Free VPN Checker — tests public VPN configs and keeps only the alive ones" width="1280">
 </p>
 
 <p align="center">
@@ -18,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="README.md">🇷🇺 Русский</a> · <a href="https://lepex.vercel.app/portfolio/free-vpn-checker">Project page</a>
+  <a href="https://lepex.vercel.app/portfolio/free-vpn-checker">Project page</a>
 </p>
 
 <!--

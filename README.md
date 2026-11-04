@@ -1,15 +1,19 @@
+<p align="center">
+  <b>Русский</b> · <a href="README.en.md">English</a>
+</p>
+
 # Free VPN Checker
 
 <p align="center">
-  <img src="assets/banner.png" alt="Free VPN Checker — тестирует публичные VPN-конфиги и оставляет только живые" />
+  <img src="assets/banner.png" alt="Free VPN Checker — тестирует публичные VPN-конфиги и оставляет только живые" width="1280">
 </p>
 
 <p align="center">
-  <a href="https://github.com/lepex1/free-vpn-checker/releases/latest"><img src="https://img.shields.io/github/v/release/lepex1/free-vpn-checker?label=release&color=22d3ee" alt="Release"></a>
-  <a href="https://github.com/lepex1/free-vpn-checker/releases"><img src="https://img.shields.io/github/downloads/lepex1/free-vpn-checker/total?label=downloads&color=22d3ee" alt="Downloads"></a>
-  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6" alt="Platform">
+  <a href="https://github.com/lepex1/free-vpn-checker/releases/latest"><img src="https://img.shields.io/github/v/release/lepex1/free-vpn-checker?label=%D1%80%D0%B5%D0%BB%D0%B8%D0%B7&color=22d3ee" alt="Релиз"></a>
+  <a href="https://github.com/lepex1/free-vpn-checker/releases"><img src="https://img.shields.io/github/downloads/lepex1/free-vpn-checker/total?label=%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8&color=22d3ee" alt="Загрузки"></a>
+  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6" alt="Платформа">
   <img src="https://img.shields.io/badge/python-3.10%2B-3776AB" alt="Python">
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/lepex1/free-vpn-checker?color=22d3ee" alt="License"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/lepex1/free-vpn-checker?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&color=22d3ee" alt="Лицензия"></a>
 </p>
 
 <p align="center">
@@ -18,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="README.en.md">🇬🇧 English</a> · <a href="https://lepex.vercel.app/portfolio/free-vpn-checker">Страница проекта</a>
+  <a href="https://lepex.vercel.app/portfolio/free-vpn-checker">Страница проекта</a>
 </p>
 
 <!--
@@ -147,7 +151,7 @@ flowchart TD
 
 ---
 
-## FAQ
+## Частые вопросы
 
 **SmartScreen/антивирус ругается на `.exe`.**
 Так бывает со всеми неподписанными сборками PyInstaller (сертификат подписи стоит денег). Можно не доверять бинарнику и запустить из исходников — код открыт.
