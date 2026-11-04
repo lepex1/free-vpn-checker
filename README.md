@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lepex1/free-vpn-checker/releases/latest"><img src="https://img.shields.io/github/v/release/lepex1/free-vpn-checker?label=%D1%80%D0%B5%D0%BB%D0%B8%D0%B7&color=22d3ee" alt="Релиз"></a>
-  <a href="https://github.com/lepex1/free-vpn-checker/releases"><img src="https://img.shields.io/github/downloads/lepex1/free-vpn-checker/total?label=%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8&color=22d3ee" alt="Загрузки"></a>
-  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6" alt="Платформа">
-  <img src="https://img.shields.io/badge/python-3.10%2B-3776AB" alt="Python">
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/lepex1/free-vpn-checker?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&color=22d3ee" alt="Лицензия"></a>
+  <a href="https://github.com/lepex1/free-vpn-checker/releases/latest"><img src="https://img.shields.io/github/v/release/lepex1/free-vpn-checker?label=release&color=22d3ee" alt="release"></a>
+  <a href="https://github.com/lepex1/free-vpn-checker/releases"><img src="https://img.shields.io/github/downloads/lepex1/free-vpn-checker/total?label=downloads&color=22d3ee" alt="downloads"></a>
+  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6" alt="platform">
+  <img src="https://img.shields.io/badge/python-3.10%2B-3776AB" alt="python">
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/lepex1/free-vpn-checker?label=license&color=22d3ee" alt="license"></a>
 </p>
 
 <p align="center">
