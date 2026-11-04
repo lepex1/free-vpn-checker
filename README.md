@@ -5,7 +5,7 @@
 # Free VPN Checker
 
 <p align="center">
-  <img src="assets/banner.png" alt="Free VPN Checker — тестирует публичные VPN-конфиги и оставляет только живые" width="1280">
+  <img src="assets/banner.png" alt="Free VPN Checker — проверяет публичные VPN-конфиги и оставляет только живые" width="1280">
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 ## Скриншот
 
 <p align="center">
-  <img src="assets/cli.png" alt="Работа free-vpn-checker в терминале" width="880">
+  <img src="assets/cli.png" alt="Работа free-vpn-checker в терминале" width="1000">
 </p>
 
 ---

@@ -53,7 +53,7 @@ In test runs roughly **10–12 thousand servers stay alive out of ~16 thousand**
 ## Screenshot
 
 <p align="center">
-  <img src="assets/cli.png" alt="free-vpn-checker running in a terminal" width="880">
+  <img src="assets/cli.png" alt="free-vpn-checker running in a terminal" width="1000">
 </p>
 
 ---
