@@ -5,7 +5,7 @@
 # Free VPN Checker
 
 <p align="center">
-  <img src="assets/banner.en.png" alt="Free VPN Checker — tests public VPN configs and keeps only the alive ones" width="1280">
+  <img src="assets/banner.en.png" alt="Free VPN Checker — tests public VPN configs and keeps only the alive ones" width="1000">
 </p>
 
 <p align="center">
