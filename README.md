@@ -25,12 +25,12 @@
   <a href="https://lepex.vercel.app/portfolio/free-vpn-checker">Страница проекта</a>
 </p>
 
-<!--
-  ДЕМО-СЛОТ: записать assets/demo.gif (терминал, ширина ~960 px, до 5 МБ) и раскомментировать блок ниже.
+## Демонстрация
+
+<!-- ДЕМО-СЛОТ: записать assets/demo.gif (реальный запуск, до 5 МБ) и удалить этот комментарий. -->
 <p align="center">
-  <img src="assets/demo.gif" alt="Запись работы в терминале" width="880">
+  <img src="assets/demo.gif" alt="Демонстрация работы free-vpn-checker в терминале" width="880">
 </p>
--->
 
 ---
 
@@ -53,7 +53,7 @@
 ## Скриншот
 
 <p align="center">
-  <img src="assets/cli.png" alt="Работа free-vpn-checker в терминале" width="1000">
+  <img src="assets/cli.png" alt="Работа free-vpn-checker в терминале" width="893">
 </p>
 
 ---

@@ -25,12 +25,12 @@
   <a href="https://lepex.vercel.app/portfolio/free-vpn-checker">Project page</a>
 </p>
 
-<!--
-  DEMO SLOT: record assets/demo.gif (terminal, ~960 px wide, up to 5 MB) and uncomment the block below.
+## Demo
+
+<!-- DEMO SLOT: record assets/demo.gif (real run, up to 5 MB) and remove this comment. -->
 <p align="center">
-  <img src="assets/demo.gif" alt="Terminal demo" width="880">
+  <img src="assets/demo.gif" alt="free-vpn-checker running in a terminal" width="880">
 </p>
--->
 
 ---
 
@@ -53,7 +53,7 @@ In test runs roughly **10–12 thousand servers stay alive out of ~16 thousand**
 ## Screenshot
 
 <p align="center">
-  <img src="assets/cli.png" alt="free-vpn-checker running in a terminal" width="1000">
+  <img src="assets/cli.png" alt="free-vpn-checker running in a terminal" width="893">
 </p>
 
 ---
